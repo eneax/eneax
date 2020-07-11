@@ -1,5 +1,5 @@
 <div align='center'>
-  <h5>Greetings, Fellow Humans! 🖖</h5>
+  <h4>Greetings, Fellow Humans! 🖖</h4>
   <img src='https://raw.githubusercontent.com/eneax/eneax/master/octocat-mate.png' alt='octocat-mate' width="200" height="200">
 </div>
 
