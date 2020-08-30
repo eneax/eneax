@@ -3,7 +3,12 @@
   <img src='https://raw.githubusercontent.com/eneax/eneax/master/octocat-mate.png' alt='octocat-mate' width="200" height="200">
 </div>
 
-<!--
-eneax/eneax is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile.
-Make sure it’s public and initialize it with a README to get started.
--->
+## Recent blog posts
+
+<!-- FEED-START -->
+- [📖 Shoe Dog](https://eneaxharja.com/blog/shoe-dog)
+- [🕺 Add an RSS Feed to your Gatsby MDX blog](https://eneaxharja.com/blog/add-rss-feed-to-gatsby-mdx-blog)
+- [🕺 Convert an existing Gatsby Markdown blog to use MDX](https://eneaxharja.com/blog/convert-an-existing-gatsby-blog-to-use-mdx)
+- [📖 Why We Sleep](https://eneaxharja.com/blog/why-we-sleep)
+- [🌶 Format Reading Time with JavaScript](https://eneaxharja.com/blog/format-reading-time-with-javascript)
+<!-- FEED-END -->
