@@ -2,9 +2,14 @@
   <img src='https://raw.githubusercontent.com/eneax/eneax/master/greetings.png' alt='greetings'>
 </div>
 
-## Recent blog posts
+### Recent projects
+
+<p>Check them out at my own little corner of the <a href="https://eneaxharja.com/projects">web &#8594;</a></p>
+
+### Recent blog posts
 
 <!-- FEED-START -->
+
 - [🕺 Add Tags & Categories to Gatsby MDX blog](https://eneaxharja.com/blog/add-tags-and-categories-to-gatsby-mdx-blog)
 - [📖 Shoe Dog](https://eneaxharja.com/blog/shoe-dog)
 - [🕺 Add an RSS Feed to your Gatsby MDX blog](https://eneaxharja.com/blog/add-rss-feed-to-gatsby-mdx-blog)
