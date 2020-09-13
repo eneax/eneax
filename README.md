@@ -1,6 +1,5 @@
 <div align='center'>
-  <h4>Greetings, fellow humans! 🖖</h4>
-  <img src='https://raw.githubusercontent.com/eneax/eneax/master/octocat-mate.png' alt='octocat-mate' width="200" height="200">
+  <img src='https://raw.githubusercontent.com/eneax/eneax/master/greetings.png' alt='greetings'>
 </div>
 
 ## Recent blog posts
