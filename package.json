@@ -1,7 +1,7 @@
 {
   "name": "eneax",
   "version": "1.0.0",
-  "description": "Greetings, fellow humans! 🖖",
+  "description": "Greetings!",
   "author": "Enea Xharja <eneaxharja@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/eneax/eneax#readme",
@@ -21,6 +21,7 @@
   "keywords": [
     "eneax",
     "github",
-    "workflow"
+    "workflow",
+    "actions"
   ]
 }
