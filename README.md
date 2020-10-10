@@ -9,11 +9,11 @@
 ### Recent blog posts
 
 <!-- FEED-START -->
+- [The Great Influenza](https://eneaxharja.com/blog/the-great-influenza)
 - [Add a Published Filter To Your Gatsby MDX Posts](https://eneaxharja.com/blog/add-a-published-filter-to-gatsby-mdx-posts)
 - [Amusing Ourselves to Death](https://eneaxharja.com/blog/amusing-ourselves-to-death)
 - [Add Tags & Categories to Gatsby MDX blog](https://eneaxharja.com/blog/add-tags-and-categories-to-gatsby-mdx-blog)
 - [Shoe Dog](https://eneaxharja.com/blog/shoe-dog)
-- [Add an RSS Feed to your Gatsby MDX blog](https://eneaxharja.com/blog/add-rss-feed-to-gatsby-mdx-blog)
 <!-- FEED-END -->
 
 <p><a href="https://eneaxharja.com/blog">Read more  &#8594;</a></p>
