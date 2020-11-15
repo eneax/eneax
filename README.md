@@ -9,11 +9,11 @@
 ### Recent blog posts
 
 <!-- FEED-START -->
+- [How to add custom JavaScript to a Gatsby site](https://eneaxharja.com/blog/how-to-add-custom-javascript-to-a-gatsby-site)
 - [Cloud Atlas](https://eneaxharja.com/blog/cloud-atlas)
 - [A Gentleman in Moscow](https://eneaxharja.com/blog/a-gentleman-in-moscow)
 - [How to use Tailwind CSS with styled-components](https://eneaxharja.com/blog/tailwind-with-styled-components)
 - [The Choice](https://eneaxharja.com/blog/the-choice)
-- [The Great Influenza](https://eneaxharja.com/blog/the-great-influenza)
 <!-- FEED-END -->
 
 <p><a href="https://eneaxharja.com/blog">Read more  &#8594;</a></p>
