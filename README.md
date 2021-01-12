@@ -1,1 +1,1 @@
-[![Enea Xharja](https://raw.githubusercontent.com/eneax/eneax/master/eneaxharja.png)](https://eneaxharja.com)
+![Metrics](https://metrics.lecoq.io/eneax)
