@@ -1,16 +1,12 @@
-## Hi there 👋
+<h3 align="center">Hi there 🖖</h3>
 
-<!--
-**eneax/eneax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I am a software engineer with industry experience building websites and web applications. <br/>
+  I specialize in JavaScript and have professional experience working with React.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I love learning new things and sharing them with my community. <br/>
+  Take a look at my work and get in touch! <br/>
+  <a href="https://eneaxharja.com" rel="follow me">eneaxharja.com</a>
+</p>
