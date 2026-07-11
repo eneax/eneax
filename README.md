@@ -1,12 +1,7 @@
-<h3 align="center">Hi there 🖖</h3>
+<h3>Hi there 🖖</h3>
 
-<p align="center">
-  I am a software engineer with industry experience building websites and web applications. <br/>
-  I specialize in JavaScript and have professional experience working with React.
-</p>
+<p>I am a software engineer focused on building accessible and enjoyable web products.</p>
 
-<p align="center">
-  I love learning new things and sharing them with my community. <br/>
-  Take a look at my work and get in touch! <br/>
-  <a href="https://eneaxharja.com" rel="follow me">eneaxharja.com</a>
-</p>
+<p>I specialize in the full user experience on the web, from design to development, as well as usability, performance, and accessibility.</p>
+
+<a href="https://eneaxharja.com" rel="follow me">eneaxharja.com</a>
